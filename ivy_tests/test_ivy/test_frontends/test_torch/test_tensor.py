@@ -288,6 +288,7 @@ def test_torch_instance_cos(
         method_name="cos",
     )
 
+    
 # cos_
 @handle_cmd_line_args
 @given(
